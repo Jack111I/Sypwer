@@ -1,3 +1,6 @@
+<img width="734" height="241" alt="Untitled-8" src="https://github.com/user-attachments/assets/22643e87-d1bb-4e37-b584-fe9efbdb0a36" />
+
+
 # Sypwer
 
  *I have developed this advanced spyware tool to demonstrate the working of the spyware and how it tries to steal user's data.*
